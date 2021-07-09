@@ -1,11 +1,11 @@
 body {
-	text-align: center;
-	margin: 0;
-	background-color: #730000;
+    text-align: center;
+    margin: 0;
+    background-color: #730000;
 }
 
 .header {
-	height: 230px;
+    height: 230px;
 }
 
 .thrones {
@@ -18,13 +18,13 @@ body {
     z-index: -3;
 }
 
-.main {	
-	width: 80%;
-	margin: 0 auto;
+.main {
+    width: 80%;
+    margin: 0 auto;
 }
 
 .letter {
-	position: absolute;
+    position: absolute;
     top: 230px;
     right: 0;
     left: 0;
@@ -41,29 +41,29 @@ body {
 }
 
 button {
-	font-family: monospace;
-	font-size: 18px;
+    font-family: monospace;
+    font-size: 18px;
     padding: 5px 12px;
     font-weight: 600;
     border-radius: 0;
-    cursor: pointer;	
+    cursor: pointer;
 }
 
 .taskBtn {
-	margin-top: 20px;
+    margin-top: 20px;
 }
 
 .taskBtn:focus {
-	outline: initial;
+    outline: initial;
 }
 
 .task {
-	padding: 20px 40px;
-	font-family: monospace;
+    padding: 20px 40px;
+    font-family: monospace;
 }
 
 .timer {
-	margin-top: 30px;
-	font-size: 32px;
-	color: #730000;
+    margin-top: 30px;
+    font-size: 32px;
+    color: #730000;
 }
